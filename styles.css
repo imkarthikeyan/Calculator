@@ -1,0 +1,50 @@
+body {
+    background-color: #4d0375;
+}
+
+h1 {
+    text-align: center;
+    font-size: 400%;
+    font-weight: bold;
+    color: #fff;
+}
+
+#values input {
+    position: relative;
+    left: 510px;
+    top: 10px;
+    width: 28%;
+    padding: 12px 20px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #fff;
+}
+
+.numbers button {
+    position: relative;
+    left: 500px;
+    top: 50px;
+    width: 6%;
+    margin-top: 5px;
+    margin-left: 15px;
+    margin-bottom: 10px;
+    margin-right: 15px;
+    padding: 25px 25px;
+    font-size: 120%;
+    border-radius: 5px;
+}
+
+#equal {
+    width: 31%;
+}
+
+button:hover {
+    background-color: #360450;
+    color: #fff;
+    cursor: pointer;
+}
+
+#input {
+    font-size: large;
+    font-weight: bolder;
+}
